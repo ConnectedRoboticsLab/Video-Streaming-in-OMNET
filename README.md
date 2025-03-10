@@ -8,3 +8,5 @@ Ubuntu version xx;
 OMNET++ version xx;
 
 INET version;
+
+A demo of the video streaming in OMNET++
