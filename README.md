@@ -3,10 +3,10 @@ Setup a real video streaming system in OMNET++
 
 Software Environment;
 
-Ubuntu version xx;
+Ubuntu 20.04;
 
-OMNET++ version xx;
+OMNET++ 6.0;
 
-INET version;
+INET v4.4;
 
 A demo of the video streaming in OMNET++
