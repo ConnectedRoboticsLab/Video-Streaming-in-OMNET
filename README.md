@@ -10,4 +10,5 @@ OMNET++ 6.0;
 INET v4.4;
 
 A demo of the video streaming in OMNET++
-![Uploading video streaming-omnet.gif…]()
+
+![video streaming-omnet](https://github.com/user-attachments/assets/8143db05-669c-415b-964a-7e11e2150646)
