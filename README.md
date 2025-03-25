@@ -1,8 +1,11 @@
 # Video-Streaming-in-OMNET
 This project investigates the impact of variable network conditions on video quality. Real video sequences are transmitted through a virtual network simulated in OMNeT++, where network impairments are introduced. The resulting corrupted video sequences are then evaluated and compared using the MSU Video Quality Measurement Tool (VQMT) to assess degradation and performance under different network scenarios.
 Setup a real video streaming system in OMNET++
+
 Author:
+
 Yixiao Zhou and Jingyu Sun
+
 Supervisor: Dr.Zhenhui Yuan
 
 Software used:
